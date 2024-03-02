@@ -2,9 +2,9 @@
 - 👀 I’m interested in Software Development and System Programming
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  shubhamguthale8585@gmail.com
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
+- 📫 How to reach me
+-  shubhamguthale8585@gmail.com
+  
 
 <!---
 ShubhamGuthale/ShubhamGuthale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
