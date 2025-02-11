@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShubhamGuthale
 - 👀 I’m interested in Software Development and System Programming
-- 🌱 I’m currently learning Java Development
+- 🌱 I’m currently learning Full Stack Java Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  shubhamguthale8585@gmail.com
   
