@@ -8,7 +8,7 @@
 - 🧠 Exploring **Microservices**, **DevOps**, and **Cloud (Azure & AWS)**
 - 🛠️ Skilled in Java, Spring Boot, React.js, MongoDB, MySQL, Git, and more
 - 💡 Always ready to **collaborate on real-world software projects**
-- 📝 Writing code, debugging bugs, and sipping chai ☕
+
 
 ---
 
