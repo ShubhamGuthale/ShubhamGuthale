@@ -1,6 +1,7 @@
 # 👋 Hi, I am Shubham Guthale
 
-### 💻 Software Developer | Java Backend | Full Stack Enthusiast
+### 💻 Software Developer | Java Backend | Full Stack Developer
+
 
 - 🚀 Passionate about **building scalable web apps**, backend systems, and clean UIs
 - 👀 Interested in **Software Development**, **System Programming**, and **Cloud Deployment**
