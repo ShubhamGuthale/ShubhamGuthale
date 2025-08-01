@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Shubham Guthale
+# 👋 Hi, I am Shubham Guthale
 
 ### 💻 Software Developer | Java Backend | Full Stack Enthusiast
 
